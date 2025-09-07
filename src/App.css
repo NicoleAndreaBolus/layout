@@ -6,7 +6,7 @@
 
 .header {
   background-color: #53d5eb;
-  padding: 20px;
+  padding: 30px;
   margin-bottom: 10px;
 }
 
@@ -33,29 +33,29 @@
 
 
 .hero {
-  background-color: #d8c8e5;
-  padding: 20px;
-  height: 300px;
+  background-color: #cfc6d6;
+  padding: 30px;
+  height: 400px;
   margin-bottom: 10px;
 }
 
 .sidebar {
-  background-color: #9acd32;
-  padding: 20px;
+  background-color: #8ab82d;
+  padding: 30px;
   height: 500px;
 }
 
 
 .m_content {
   background-color: #f6c344;
-  padding: 20px;
-  height: 500px;
+  padding: 30px;
+  height: 600px;
   margin-bottom: 10px;
 }
 
 .e_content {
   background-color: #808080;
-  padding: 20px;
+  padding: 30px;
   height: 300px;
 }
 
@@ -68,14 +68,14 @@
 .r_images {
   flex: 3;
   background-color: #2ab275;
-  padding: 20px;
+  padding: 30px;
   margin-right: 10px;
-  height: 120px;
+  height: 150px;
 }
 
 .r_posts {
   flex: 1;
   background-color: #f8c8dc;
-  padding: 20px;
-  height: 120px;
+  padding: 30px;
+  height: 150px;
 }
