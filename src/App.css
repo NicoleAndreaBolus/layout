@@ -46,26 +46,26 @@
 }
 
 
-.main {
+.m_content {
   background-color: #f6c344;
   padding: 20px;
   height: 500px;
   margin-bottom: 10px;
 }
 
-.extra {
+.e_content {
   background-color: #808080;
   padding: 20px;
   height: 300px;
 }
 
 
-.content3 {
+.related_section {
   display: flex;
   margin: 10px 0;
 }
 
-.ri {
+.r_images {
   flex: 3;
   background-color: #2ab275;
   padding: 20px;
@@ -73,7 +73,7 @@
   height: 120px;
 }
 
-.rp {
+.r_posts {
   flex: 1;
   background-color: #f8c8dc;
   padding: 20px;
